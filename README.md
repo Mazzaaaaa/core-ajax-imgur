@@ -1,11 +1,12 @@
 # core-ajax-imgur
 Polymer component that extends core-ajax and provides an easier access to the info of an imgur image.
+For Polymer 0.5.5.
 
 ### Installing  
   
 - Get it from bower:   
 ```bower install core-ajax-imgur```  
-- Import it in your project:   
+- Import it in your polymer project:   
 ```<link rel="import" href="bower_components/core-ajax-imgur/core-ajax-imgur.html">```
 
 ### Usage
