@@ -1,0 +1,29 @@
+{
+  "name": "core-ajax-imgur",
+  "version": "0.0.1",
+  "authors": [
+    "Mazzarolo Matteo <mazzarolomatteo@gmail.com>"
+  ],
+  "description": "Core-Ajax extension for imgur API requests",
+  "main": "core-ajax-imgur.html",
+  "keywords": [
+    "core-ajax",
+    "images",
+    "imgur",
+    "polymer",
+    "web-components"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.5",
+    "core-ajax": "Polymer/core-ajax#^0.5"
+  }
+}

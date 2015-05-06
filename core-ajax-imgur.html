@@ -1,0 +1,40 @@
+<!--
+core-ajax-imgur extends core-ajax functionality and 
+provides an easier access to the info of an imgur image.
+
+  <core-ajax-imgur
+      imgId="{{imgId}}"
+      clientId="{{clientId}}"
+      on-core-response="{{handleResponse}}">
+      </core-ajax-imgur>
+
+To use core-ajax-imgur you must provide it:
+  - A valid imgur client ID (read more about it here); 
+  - A valid link to an image hosted on imgur. 
+
+The following pattern for the image link can be used: 
+  - Direct URL, ex: http://i.imgur.com/NPHdTZl.jpg 
+  - Short URL, ex: http://imgur.com/zqLZYZr 
+  - Album URL, ex: http://imgur.com/a/szz8j 
+  - Gallery URL, ex: http://imgur.com/gallery/Nubk9vB 
+
+Being an extension of core-ajax means that every standard code-ajax attribute can also be declared. 
+Take a look at the core-ajax component page for more informations.
+
+@element core-ajax-imgur
+@status beta
+@homepage https://github.com/Mazzaaaaa
+@author Mazzarolo Matteo
+-->
+<link rel="import" href="bower_components/core-ajax/core-ajax.html">
+
+<polymer-element name="core-ajax-imgur" extends="core-ajax" attributes="imgId clientId">
+  
+  <template>
+
+    <shadow></shadow>
+
+  </template>
+  <script src="core-ajax-imgur.js"></script>  
+
+</polymer-element>
