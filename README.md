@@ -1,5 +1,5 @@
 # core-ajax-imgur
-Polymer component that extends core-ajax and provides an easier access to the info of an imgur image.
+Polymer component that extends core-ajax and provides an easier access to the info of an imgur image.  
 For Polymer 0.5.5.
 
 ### Installing  
