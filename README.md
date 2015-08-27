@@ -37,7 +37,3 @@ Take a look at the <a href="https://www.polymer-project.org/0.5/docs/elements/co
 ### Demo
 <a href="http://mazzarolomatteo.com/polymer/core-ajax-imgur-demo/">Demo</a>  
 <a href="">Source of the demo on GitHub</a>
-  
-
-### Contacts
-Email: Mazzarolomatteo@gmail.com
