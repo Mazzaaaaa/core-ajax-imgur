@@ -2,7 +2,7 @@
   "name": "core-ajax-imgur",
   "version": "0.0.1",
   "authors": [
-    "Mazzarolo Matteo <mazzarolomatteo@gmail.com>"
+    "Mazzarolo Matteo"
   ],
   "description": "Core-Ajax extension for imgur API requests",
   "main": "core-ajax-imgur.html",
